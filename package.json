@@ -1,0 +1,27 @@
+{
+  "name": "vta-cli",
+  "version": "1.0.0",
+  "main": "init.js",
+  "bin": {
+    "vta-cli": "bin/init.js"
+  },
+  "files": [
+    "bin",
+    "./src"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhousiyaoyao/vta-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhousiyaoyao/vta-cli/issues"
+  },
+  "homepage": "https://github.com/zhousiyaoyao/vta-cli#readme",
+  "keywords": [],
+  "description": ""
+}
